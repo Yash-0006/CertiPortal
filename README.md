@@ -113,3 +113,12 @@ CertiPortal/
 │           └── WEB-INF/
 │               └── web.xml
 ```
+
+## Screenshots
+
+| ![Home page](./ScreenShots/1.png) | ![Student Login](./ScreenShots/2.png) | ![Student Dashboard](./ScreenShots/3.png) | ![Request Certidicate](./ScreenShots/4.png) |
+| -------------------------------------- | -------------------------------------- | -------------------------------------- | -------------------------------------- |
+
+
+| ![Track Certificates](./ScreenShots/5.png) | ![Issued Certifiactes](./ScreenShots/6.png) | ![Admin Login](./ScreenShots/1.png) | ![Admin Manage Requests](./screenshots/laptop_4.png) |
+| -------------------------------------- | -------------------------------------- | -------------------------------------- | -------------------------------------- |
