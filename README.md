@@ -120,5 +120,5 @@ CertiPortal/
 | -------------------------------------- | -------------------------------------- | -------------------------------------- | -------------------------------------- |
 
 
-| ![Track Certificates](./ScreenShots/5.png) | ![Issued Certifiactes](./ScreenShots/6.png) | ![Admin Login](./ScreenShots/1.png) | ![Admin Manage Requests](./screenshots/laptop_4.png) |
+| ![Track Certificates](./ScreenShots/5.png) | ![Issued Certifiactes](./ScreenShots/6.png) | ![Admin Login](./ScreenShots/7.png) | ![Admin Manage Requests](./ScreenShots/8.png) |
 | -------------------------------------- | -------------------------------------- | -------------------------------------- | -------------------------------------- |
