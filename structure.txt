@@ -1,0 +1,116 @@
+Folder PATH listing for volume Windows-SSD
+Volume serial number is 7667-DC4E
+C:.
+¦   .classpath
+¦   .project
+¦   pom.xml
+¦   README.md
+¦   structure.txt
+¦   
++---.settings
+¦       .jsdtscope
+¦       org.eclipse.core.resources.prefs
+¦       org.eclipse.jdt.core.prefs
+¦       org.eclipse.m2e.core.prefs
+¦       org.eclipse.wst.common.component
+¦       org.eclipse.wst.common.project.facet.core.xml
+¦       org.eclipse.wst.jsdt.ui.superType.container
+¦       org.eclipse.wst.jsdt.ui.superType.name
+¦       org.eclipse.wst.validation.prefs
+¦       
++---src
+¦   +---main
+¦   ¦   +---java
+¦   ¦   ¦   +---dao
+¦   ¦   ¦   ¦       AdminDAO.java
+¦   ¦   ¦   ¦       RequestDAO.java
+¦   ¦   ¦   ¦       RequestedFilesDAO.java
+¦   ¦   ¦   ¦       StudentDAO.java
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---dbconnections
+¦   ¦   ¦   ¦       StudentToOfficeDBConnection.java
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---models
+¦   ¦   ¦   ¦       admin.java
+¦   ¦   ¦   ¦       requested_files.java
+¦   ¦   ¦   ¦       requests.java
+¦   ¦   ¦   ¦       student.java
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---servlet
+¦   ¦   ¦           AdminLoginServlet.java
+¦   ¦   ¦           AdminLogoutServlet.java
+¦   ¦   ¦           AdminUpdateRequestServlet.java
+¦   ¦   ¦           GenerateCertificateServlet.java
+¦   ¦   ¦           RequestCertificateServlet.java
+¦   ¦   ¦           StudentLoginServlet.java
+¦   ¦   ¦           StudentLogoutServlet.java
+¦   ¦   ¦           StudentRegisterServlet.java
+¦   ¦   ¦           UploadFileServlet.java
+¦   ¦   ¦           ViewDocumentsServlet.java
+¦   ¦   ¦           ViewRequestDocumentsServlet.java
+¦   ¦   ¦           
+¦   ¦   +---resources
+¦   ¦   +---webapp
+¦   ¦       ¦   admin_dashboard.jsp
+¦   ¦       ¦   admin_login.jsp
+¦   ¦       ¦   index.jsp
+¦   ¦       ¦   request_certificate.jsp
+¦   ¦       ¦   student_dashboard.jsp
+¦   ¦       ¦   student_issued_certificates.jsp
+¦   ¦       ¦   student_login.jsp
+¦   ¦       ¦   student_register.jsp
+¦   ¦       ¦   student_track_requests.jsp
+¦   ¦       ¦   view_documents.jsp
+¦   ¦       ¦   view_requests.jsp
+¦   ¦       ¦   
+¦   ¦       +---images
+¦   ¦       ¦       giet-campus.jpg
+¦   ¦       ¦       
+¦   ¦       +---WEB-INF
+¦   ¦               web.xml
+¦   ¦               
+¦   +---test
+¦       +---java
+¦       +---resources
++---target
+    +---classes
+    ¦   +---dao
+    ¦   ¦       AdminDAO.class
+    ¦   ¦       RequestDAO.class
+    ¦   ¦       RequestedFilesDAO.class
+    ¦   ¦       StudentDAO.class
+    ¦   ¦       
+    ¦   +---dbconnections
+    ¦   ¦       StudentToOfficeDBConnection.class
+    ¦   ¦       
+    ¦   +---models
+    ¦   ¦       admin.class
+    ¦   ¦       requested_files.class
+    ¦   ¦       requests.class
+    ¦   ¦       student.class
+    ¦   ¦       
+    ¦   +---servlet
+    ¦           AdminLoginServlet.class
+    ¦           AdminLogoutServlet.class
+    ¦           AdminUpdateRequestServlet.class
+    ¦           GenerateCertificateServlet.class
+    ¦           RequestCertificateServlet.class
+    ¦           StudentLoginServlet.class
+    ¦           StudentLogoutServlet.class
+    ¦           StudentRegisterServlet.class
+    ¦           UploadFileServlet.class
+    ¦           ViewDocumentsServlet.class
+    ¦           ViewRequestDocumentsServlet.class
+    ¦           
+    +---m2e-wtp
+    ¦   +---web-resources
+    ¦       +---META-INF
+    ¦           ¦   MANIFEST.MF
+    ¦           ¦   
+    ¦           +---maven
+    ¦               +---com.example
+    ¦                   +---studentToOfficePortal
+    ¦                           pom.properties
+    ¦                           pom.xml
+    ¦                           
+    +---test-classes
