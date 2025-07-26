@@ -23,7 +23,7 @@ Before running the project, make sure the following are installed:
 - **Apache Tomcat** (v9 or above)
 - **MySQL Server**
 - **Eclipse IDE** (with Dynamic Web Project support)
-- **Maven** (optional if using Eclipse’s Maven integration)
+- **Maven**
 
 ### 🛠️ Steps to Setup
 
